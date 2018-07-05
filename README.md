@@ -1,5 +1,5 @@
 # Docker-Ubuntu-jboss-eap-6.4
-Configuracion jboss EAP 7.0 com Oracle JDK 8, con ubuntu 16.04.
+Configuracion jboss EAP 6.4 com Oracle JDK 8, con ubuntu 16.04.
 
 Para configurar utilizar el comando DockerCompose.yml.
 
