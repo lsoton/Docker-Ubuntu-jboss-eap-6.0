@@ -3,7 +3,7 @@ Configuracion jboss EAP 6.4 com Oracle JDK 8, con ubuntu 16.04.
 
 Para configurar utilizar el comando DockerCompose.yml.
 
-docker-compose -f DockerCompose.yml up -d
+# docker-compose -f DockerCompose.yml up -d
 
 para crear el contenedor.
 
